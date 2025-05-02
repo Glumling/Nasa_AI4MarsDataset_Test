@@ -1,0 +1,9 @@
+regarding the dataset I used, it is called AI4MARS, it is from NASA, and it pretty much contains 35k
+images from the Curiosity rove and the spirit rovers.
+
+Here are the links for downloading and using the dataset:
+
+https://www.kaggle.com/datasets/yash92328/ai4mars-terrainaware-autonomous-driving-on-mars
+
+
+https://data.nasa.gov/dataset/ai4mars-a-dataset-for-terrain-aware-autonomous-driving-on-mars
