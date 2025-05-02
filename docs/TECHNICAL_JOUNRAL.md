@@ -3,7 +3,7 @@
 
 ### 🗂 docs/PROJECT_JOURNAL.md
 
-```markdown
+
 # Project Journal
 
 ## Week 1 (May 25–31)  
